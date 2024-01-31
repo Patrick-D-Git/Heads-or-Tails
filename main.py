@@ -1,3 +1,5 @@
+# Let's play a game of heads or tails
+
 import random
 
 toss_coin = random.randint(0, 1)
